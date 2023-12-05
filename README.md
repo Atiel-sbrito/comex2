@@ -1,2 +1,2 @@
-# comex2
+# Comex2
 Semana 10
